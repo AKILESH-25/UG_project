@@ -1,17 +1,31 @@
-# UG_project
-A PHP &amp; MySQL-based Hospital Management System for doctor appointments, patient tracking, and admin dashboards – built as a UG major project.
+# Hospital Management System (HMS) – UG Major Project
 
+This repository contains the source code, database, documentation, and UI assets for a web-based Hospital Management System developed as part of a UG major project. The system is designed to simplify and digitize hospital workflows such as appointment booking, patient-doctor management, and billing.
 
-The Hospital Management System is a web-based application developed using PHP, MySQL, HTML, and CSS to streamline hospital tasks like doctor appointments, patient record management, and administrative controls.
+---
 
-This system includes features like:
+## Features
 
-"Admin login and dashboard"
+- Role-based login system (Admin, Doctor, Patient)
+- Secure authentication using PHP sessions
+- Online appointment scheduling and cancellation
+- Doctor panel for prescriptions and patient history
+- Admin dashboard to manage doctors, patients, and income reports
+- Database-driven architecture using MySQL
+- Clean and responsive UI using HTML/CSS
 
-"Doctor and patient modules"
+---
 
-"Appointment booking and status tracking"
+## 🛠 Technologies Used
 
-"Prescription storage and earnings calculator"
+| Component     | Technology              |
+|---------------|--------------------------|
+| Frontend      | HTML, CSS, PHP           |
+| Backend       | PHP                      |
+| Database      | MySQL                    |
+| Tools         | XAMPP, Dreamweaver, VS Code |
+| OS Platform   | Windows 11               |
 
-Developed as a UG major project to demonstrate database-driven web development and real-world healthcare application systems.
+---
+
+## Project Structure
